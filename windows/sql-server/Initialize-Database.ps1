@@ -1,5 +1,5 @@
 # Adapted from Microsoft's SQL Server Express sample:
-# https://github.com/Microsoft/sql-server-samples/blob/master/samples/manage/windows-containers/mssql-server-2016-express-windows/start.ps1
+# https://github.com/Microsoft/mssql-docker/blob/master/windows/mssql-server-windows-express/start.ps1
 
 param(
     [Parameter(Mandatory=$false)]
